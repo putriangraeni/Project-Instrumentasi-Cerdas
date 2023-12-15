@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1054148070771",
+    "firebase_url": "https://kualitas-udara-efd77-default-rtdb.firebaseio.com",
+    "project_id": "kualitas-udara-efd77",
+    "storage_bucket": "kualitas-udara-efd77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054148070771:android:afa7ece213d70c5303c906",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6qenlceYgN7vl29yk1wflHcxOm9Ee_wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
