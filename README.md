@@ -1,16 +1,9 @@
-# flutter_application_1
+# Prototipe Udara Bersih: Sistem Cerdas Untuk Menjaga Udara Ideal Dalam Ruangan
 
-A new Flutter project.
+## Project Final Semester 5 Mata Kuliah Instrumentasi Cerdas
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Prototipe ini menggunakan 2 unsur utama, yaitu alat dan aplikasi.
+- Prototipe terdiri dari 6 komponen utama, yaitu ESP32, Sensor Gas, Sensor Debu, Sensor DHT22, LCD, Kipas DC, Filter HEPA, Firebase dan Aplikasi smartphone.
+- Ketua dari 5 anggota kelompok.
+- Bertanggung jawab bagian pembuatan aplikasi menggunakan flutter dengan bahasa pemrograman dart pada software vscode, database Firebase, serta pembuatan artikel penelitian.
+- Berhasil menyelesaikan tugas akhir dengan tepat waktu dan mendapatkan nilai A dengan indeks 4.00
